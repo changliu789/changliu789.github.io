@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[comment]: # [Click CV here](/files/ChangLiu_CV.pdf)
+[comment]: # [Click CV here](/files/Chang_Liu_CV.pdf)
 
 <embed src="/files/HSKim_CV.pdf" type="application/pdf" width="600px" height="500px" />
