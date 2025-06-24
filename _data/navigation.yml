@@ -10,5 +10,8 @@ main:
   - title: "TEACHING"
     url: /teaching/  
 
-  - title: "CV"
-    url: /files/Chang_Liu_CV.pdf
+  - title: "<a href='/files/Chang_Liu_CV.pdf' target='_blank'>CV</a>"
+    url: #
+
+  #- title: "CV"
+  #  url: /files/Chang_Liu_CV.pdf
