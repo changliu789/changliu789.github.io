@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my webpage!
 
-I am a Ph.D. candidate in Economics at City University of Hong Kong and will be on the job market for 2025-2026. I will be expected to graduate in May 2026.
+I am a Ph.D. candidate in Economics at City University of Hong Kong, and will be on the job market for 2025-2026. I expect to graduate in May 2026.
 
 My research interests lie in International Trade and Urban Economics. I am particularly interested in studying the ...
 
