@@ -14,7 +14,7 @@ I am a Ph.D. candidate in Economics at City University of Hong Kong, and will be
 
 My research interests lie in International Trade and Urban Economics. I am particularly interested in studying the ...
 
-*Email*: cliu542-c@my.cityu.edu.hk
+**Email**: cliu542-c@my.cityu.edu.hk
 
 [comment]: <strong>Fields of Interest: </strong>  International Trade, Urban Economics
 
