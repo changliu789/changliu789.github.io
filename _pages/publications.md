@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "RESEARCH"
 permalink: /publications/
 author_profile: false
@@ -12,4 +12,4 @@ author_profile: false
 
 *    "Bank Entry and Firms' Export" with Hanwei Huang (Draft Coming Soon) **(Job Market Paper)**
 
-* test2
+* test3
