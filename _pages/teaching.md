@@ -2,7 +2,7 @@
 layout: archive
 title: "TEACHING"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 **City University of Hong Kong**
 - TA, EF4471 International Finance (undergraduate). Spring 2021/2022
