@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chang Liu"
+title                    : "Chang Liu      "
 title_separator          : "-"
 name                     : &name "Chang Liu"
 description              : &description "personal description"
