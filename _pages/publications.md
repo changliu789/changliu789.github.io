@@ -7,7 +7,9 @@ author_profile: false
 **Publications**
 * ["Working from home and firm resilience to the COVID-19 pandemic"](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1200) with [Chunmian Ge](https://faculty.scut.edu.cn/gsgl/gcm/main.htm), [Hanwei Huang](https://sites.google.com/site/chinahanweihuang/home), [Zhiqiang Wang](https://faculty.scut.edu.cn/gsgl/wzq/main.htm) and [Junhui Jiang](https://faculty.scut.edu.cn/gsgl/jjh/main.htm), **Journal of Operations Management**, Vol 69(3), 2023
 
+<div style="text-align: justify; text-justify: inter-word;">
 **Abstract:** The COVID-19 pandemic has disrupted firms' operations. To cope with the crisis, many firms have allowed their employees to work from home (WFH). We examine whether a firm's WFH capacity has increased its resilience during the pandemic. We test the hypotheses using a unique data set that combines listed firms' financial statements, supply chain partners, and job postings on a leading online platform that provides hiring services. We find that imposing COVID-19 anti-contagion policies on firms and their suppliers or customers significantly increases their operating revenue volatility, slows their recovery, and has repercussions on their supply chains. WFH enhances firms' resistance capacity by reducing the effect of COVID-19 on their operating revenue volatility and disruptions to their supply chain partners; however, it also decreases their recovery capacity by extending the time taken to return to normal. Firm attributes, along with workers' occupations, education, and experience, have an impact on the effect of WFH on firm resilience. This study enhances our understanding of shock transmission across supply chains and WFH as a source of firm resilience.
+</div>
 
 
 **Working Papers**
@@ -20,7 +22,6 @@ author_profile: false
 
 * "Bank Entry and Firms' Export" with [Hanwei Huang](https://sites.google.com/site/chinahanweihuang/home) (Draft Coming Soon)
 
-* test
 
 
   
