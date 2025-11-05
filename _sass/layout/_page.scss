@@ -399,16 +399,3 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
-.wide {
-  
-  .page {
-    // override right padding and width's to make wide
-  }
-
-  .sidebar__right {
-    // override negative margin, width, positioning, etc.
-  }
-
-  // any other overrides needed for a wide `.page`
-}
