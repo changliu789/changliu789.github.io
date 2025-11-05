@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "RESEARCH"
 permalink: /publications/
 author_profile: false
