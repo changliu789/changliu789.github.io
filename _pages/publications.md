@@ -20,16 +20,14 @@ author_profile: false
 <div style="text-align: justify; text-justify: inter-word;">
 <strong>Presentations:</strong> City University of Hong Kong; IAAE 2024 (Xiamen University); UEA 2024 (Georgetown University); UEA 2025 (Humboldt University); ABFER 2025 (Poster Session)
 </div>
-
 <br style="margin-bottom:0.1em;">
-
 <div style="text-align: justify; text-justify: inter-word;">
 <strong>Abstract:</strong> This paper studies the pricing of transportation services and the associated welfare implications. We develop a theoretical model to analyze two-part pricing by transportation service providers who face the backhaul problem and heterogeneous demands within and across regions. The model generates asymmetric transportation prices between regions and predicts that reductions in shipping costs lead to attenuated and unequal welfare gains. Using newly collected data from the largest platform for Chinese e-commerce delivery firms, we quantify the model and find that a universal 10% reduction in shipping costs leads the marginal delivery price to drop by 2.35%, the fixed fee to increase by 0.82%, delivery firms’ profit to increase by 1.17%, and e-commerce sellers’ welfare to rise by 0.34%, on average, with sellers in eastern and coastal cities gaining more than those in western and hinterland cities.
 </div>
 
 
 * "Bank Entry and Firms' Export" with [Hanwei Huang](https://sites.google.com/site/chinahanweihuang/home) (Draft Coming Soon)
-
+* test
 
 
 
