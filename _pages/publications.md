@@ -17,7 +17,7 @@ author_profile: false
 **Working Papers**
 * ["Price Discrimination, Backhaul Problems, and Trade Costs: Theory and Evidence from E-commerce Delivery"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4830224) with [Chunmian Ge](https://faculty.scut.edu.cn/gsgl/gcm/main.htm), [Hanwei Huang](https://sites.google.com/site/chinahanweihuang/home) and [Wenji Xu](https://www.wenji-xu.com/), R&R at _Journal of International Economics_, **(Job Market Paper)**
 
-<div style="text-align: justify; text-justify: inter-word; margin-bottom:0.2em;">
+<div style="text-align: justify; text-justify: inter-word; margin-bottom:0.3em;">
 <strong>Presentations:</strong> City University of Hong Kong; IAAE 2024 (Xiamen University); UEA 2024 (Georgetown University); UEA 2025 (Humboldt University); ABFER 2025 (Poster Session)
 </div>
 
