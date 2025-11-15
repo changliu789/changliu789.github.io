@@ -27,7 +27,7 @@ author_profile: false
 </div>
 
 
-* "Bank Entry and Firms' Export" with [Hanwei Huang](https://sites.google.com/site/chinahanweihuang/home) (Draft Coming Soon)
+* "Bank Entry, Bank Competition, and Firm Performance: Theory and Evidence from China" with [Hanwei Huang](https://sites.google.com/site/chinahanweihuang/home) (Draft Coming Soon)
 
 
 
