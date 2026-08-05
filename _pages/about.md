@@ -10,7 +10,9 @@ redirect_from:
 
 Welcome to my webpage!
 
-I received my Ph.D. degree in economics from the City University of Hong Kong in 2026. 
+I am currently a Research Assistant Professor in the Department of Economics and Finance at City University of Hong Kong.
+
+I received my Bachelor's Degree from South China University of Technology in 2020 and Ph. D. from City University of Hong Kong in 2026. 
 
 [comment]: I am particularly interested in studying the ...
 
