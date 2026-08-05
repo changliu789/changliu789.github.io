@@ -23,11 +23,11 @@ repository               : "changliu789/changliu789.github.io"
 author:
   # Biographic information
   avatar           : "IMG_8077.jpg"
-  name             : "Chang Liu"
+# name             : "Chang Liu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate @ CityU of Hong Kong"
+#  bio              : "PhD Candidate @ CityU of Hong Kong"
 #  location         : "Earth"
-#  employer         : "Red Brick University"
+   employer         : "City University of Hong Kong"
 #  uri              : # URL
 #  email            : "cliu542-c@my.cityu.edu.hk" 
 
