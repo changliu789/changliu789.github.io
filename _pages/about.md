@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Ph.D. candidate in Economics at City University of Hong Kong"
+excerpt: "Ph.D. in Economics at City University of Hong Kong"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my webpage!
 
-I am a Ph.D. candidate in Economics at City University of Hong Kong. I expect to graduate in May 2026.
+I received my Ph.D. degree in economics from the City University of Hong Kong in 2026. 
 
 [comment]: I am particularly interested in studying the ...
 
