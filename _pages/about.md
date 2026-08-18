@@ -16,7 +16,7 @@ I received my Bachelor's Degree from South China University of Technology in 202
 
 [comment]: I am particularly interested in studying the ...
 
-**Email**: cliu542-c@my.cityu.edu.hk
+**Email**: cliu542@cityu.edu.hk
 
 <strong>Research interests: </strong>  International Trade, Urban Economics
 
